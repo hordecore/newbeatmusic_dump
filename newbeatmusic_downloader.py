@@ -50,6 +50,8 @@ def download_all_response(response):
 def main():
     wall_post_count = wall_get_post_count()
     offset = 0
+    if not os.path.isdir('download'):
+        os.mkdir('download')
     for file in [ 'newbeat.json', 'newbeat2.json', 'newbeat3.json' ]:
         download_all_response(file2response(file))
 
