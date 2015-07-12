@@ -1,7 +1,4 @@
-import json
-import os
-import re
-import urllib
+import json, os, re, urllib
 
 # TODO use wall_post_count and dynamic offset eval
 # curl 'https://api.vk.com/method/wall.get?owner_id=-18312682&count=100&offset=100' > newbeat2.json
@@ -39,18 +36,17 @@ def download(z):
 def file2response(file):
 	with open(file) as f:
 		x = json.loads(f.read())
-
 	x['response'].remove(x['response'][0])
 	return x['response']
 
 
 def download_all_response(response):
-	y = []
 	for i in response:
-		if 'attachments' in i:
-			for j in i['attachments']:
-				if j['type'] == 'audio':
-					download(simplify(j))
+		if not 'attachments' in i:
+			continue
+		for j in i['attachments']:
+			if j['type'] == 'audio':
+				download(simplify(j))
 
 def main():
 	wall_post_count = wall_get_post_count()
