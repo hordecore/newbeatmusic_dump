@@ -533,15 +533,6 @@
 - ZINNO - Russian roulette (new beat mix) (1989)
 - Zed 100 - Tendenthia
 - Zinno - Russian Roulette (New Beat Mix)
-- [New Beat] Select Midi - Schwankende Gestalten (Вступление к "Фаусту" Гёте)
+- Select Midi - Schwankende Gestalten
 - colm iii - christmas tree (acid cracker)
 - little little - tickle me 1990
-- Михаил Котов - Конец дьяволу в твоей жизни
-- Михаил Котов - Иисус пришёл зажечь меня
-- Михаил Котов - Ууууу, аллилуйя!
-- Михаил Котов - Аминь? Аллилуйя?
-- Михаил Котов - Прорыв
-- Михаил Котов - Каждому что-то нужно от Иисуса
-- Михаил Котов - Господь сегодня сделает с тобой вот это
-- Михаил Котов - Господство духа
-- Несчастный Случай - Бэтмэн
