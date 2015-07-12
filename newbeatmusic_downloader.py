@@ -1,7 +1,6 @@
 import json, os, re, urllib
 
 # TODO use wall_post_count and dynamic offset eval
-# curl 'https://api.vk.com/method/wall.get?owner_id=-18312682&count=100&offset=100' > newbeat2.json
 
 wall_get_url = 'https://api.vk.com/method/wall.get?owner_id=-18312682'
 
@@ -50,6 +49,12 @@ def download_all_response(response):
 def main():
     wall_post_count = wall_get_post_count()
     offset = 0
+    if not os.path.isfile('newbeat.json'):
+        print "TODO: dynamic offset eval, but now:"
+        print "curl 'https://api.vk.com/method/wall.get?owner_id=-18312682&count=100offset=0' > newbeat.json"
+        print "curl 'https://api.vk.com/method/wall.get?owner_id=-18312682&count=100&offset=100' > newbeat2.json"
+        print "curl 'https://api.vk.com/method/wall.get?owner_id=-18312682&count=100&offset=200' > newbeat3.json"
+        return
     if not os.path.isdir('download'):
         os.mkdir('download')
     for file in [ 'newbeat.json', 'newbeat2.json', 'newbeat3.json' ]:
