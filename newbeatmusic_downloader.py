@@ -11,42 +11,42 @@ def wall_get_post_count():
 	return json.loads(data)['response'][0]
 
 
-def simplify(j):
+def simplify(attach):
 	return {
-		'url': 		re.sub("\?.*$", "", j['audio']['url']),
-		'performer':	re.sub("&gt;", ")", re.sub("&lt;", "(", j['audio']['performer'])),
-		'title':	re.sub("&gt;", ")", re.sub("&lt;", "(", j['audio']['title'])),
+		'url': 		re.sub("\?.*$", "", attach['audio']['url']),
+		'performer':	re.sub("&gt;", ")", re.sub("&lt;", "(", attach['audio']['performer'])),
+		'title':	re.sub("&gt;", ")", re.sub("&lt;", "(", attach['audio']['title'])),
 	}
 
 
-def download(z):
-	print "Download: " + z['performer'] + " - " + z['title']
-	filename = z['performer'] + " - " + z['title'] + ".mp3"
+def download(track):
+	print "Download: " + track['performer'] + " - " + track['title']
+	filename = track['performer'] + " - " + track['title'] + ".mp3"
 	filename = "download/" + re.sub("/", "_", filename)
-	print 'url: ' + z['url'] + ' to ' + filename
+	print 'url: ' + track['url'] + ' to ' + filename
 	if os.path.isfile(filename):
 		print ".. skipping"
 		return
-	if not z['url']:
+	if not track['url']:
 		print 'no url'
 		return
-	urllib.urlretrieve(z['url'], filename)
+	urllib.urlretrieve(track['url'], filename)
 
 
 def file2response(file):
 	with open(file) as f:
-		x = json.loads(f.read())
-	x['response'].remove(x['response'][0])
-	return x['response']
+		data = json.loads(f.read())
+	data['response'].remove(data['response'][0])
+	return data['response']
 
 
 def download_all_response(response):
-	for i in response:
-		if not 'attachments' in i:
+	for post in response:
+		if not 'attachments' in post:
 			continue
-		for j in i['attachments']:
-			if j['type'] == 'audio':
-				download(simplify(j))
+		for attach in post['attachments']:
+			if attach['type'] == 'audio':
+				download(simplify(attach))
 
 def main():
 	wall_post_count = wall_get_post_count()
