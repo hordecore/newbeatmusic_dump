@@ -51,7 +51,6 @@ def main():
     wall_post_count = wall_get_post_count()
     offset = 0
     for file in [ 'newbeat.json', 'newbeat2.json', 'newbeat3.json' ]:
-        response = file2response(file)
-        download_all_response(response)
+        download_all_response(file2response(file))
 
 main()
