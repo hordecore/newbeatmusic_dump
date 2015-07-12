@@ -1,22 +1,21 @@
 # New Beat List
 
-- (Hard Beat) Rox Rox`1989 - New Beat Smiley
+- Rox Rox - New Beat Smiley
 - 101 - Move Your Body
 - 101 - Rock To The Beat
 - 101 - Saigon Nightmare
-- 2 BODY's - body drill (1988)
+- 2 BODY's - body drill
 - 2 Belgen - In the Night
 - 2 Belgen - lena
-- 2 Body's - Astoria 1989
-- A Split - Second - The Parallax View (Bleep Mix) - 1991
+- 2 Body's - Astoria
+- A Split - Second - The Parallax View (Bleep Mix)
 - A Split-Second - Flesh (Slow Remix' 91)
-- AAAK - Fast Cars (UK, 1990)
+- AAAK - Fast Cars
 - AIRPLANE CRASHERS - White Rabbit (Extended Version)
 - Abfahrt - Alone It's Me
-- Africa Bambaata (1982) - planet rock
-- Alcohol Frei - Write in C
+- Africa Bambaata - planet rock
 - Amnesia - Ibiza
-- Amnesia tracklist 1988 - Amnesia - Hysteria
+- Amnesia - Hysteria
 - Anne Clark - Our Darkness (Total Eclipse Remix)
 - Anticappella - Everyday (7- Edit)
 - Anticappella - Movin` To The Beat (Mars Plastic)
@@ -25,23 +24,21 @@
 - Axodry - The Time Is Right
 - B-ART - baby wants to ride (euro mix) (1988)
 - B-Art - Alright (Prisencolinensinainciusol)
-- B.C.P. - Belgique 1989
-- B.O.S.E. - Keep Rocking To The Beat (1989)
-- BALEARIC BEACH - screamin' the funk (1988)
+- B.C.P. - Belgique
+- B.O.S.E. - Keep Rocking To The Beat
+- Balearic beach - screamin' the funk (1988)
 - BERLINER MEISTERSCHAFT - zeitgeist (cut) (1988)
-- BRUSSELS SOUND REVOLUTION - qui.. ? (new rapt version) (1989)
-- BRUSSELS SOUND REVOLUTION - qui.. ? (story mix) (1989)
+- Brussels Sound Revolution - qui.. ? (new rapt version)
+- Brussels Sound Revolution - qui.. ? (story mix)
 - BX-8017 - CCCP House (Destroyed By A Reel Acid Mix)
-- Balearic Beach  - Balearic Beach 1988
+- Balearic Beach  - Balearic Beach
 - Bassline Boys - Warbeat
-- Batman (NES) OST - Stage-1 theme
-- Batman Forever - Batcave
 - Batmobile - Dead
 - Bazz - Rrrock It!
 - Be-Dash - Must Do (Bocaccio mix)
 - Beat Beat Beat - Beat In The Street
-- Beat Professor - Beat Professor (Razormaid! Re-Edit 114 BPM) 1988
-- Beat Professor - You've Got The Instrumental Beat (Professor Beat Beat Mix) ~1989
+- Beat Professor - Beat Professor (Razormaid! Re-Edit 114 BPM)
+- Beat Professor - You've Got The Instrumental Beat (Professor Beat Beat Mix)
 - Bejenec - Acid Bcid Ccid
 - Belga Zone - Bulgarian House (re-edit TAMARA)
 - Belga Zone - Bulgarian House
@@ -52,27 +49,20 @@
 - Bizz Nizz - Don't Miss The Party Line
 - Bizz Nizz - Don't Miss The Partyline
 - Black Kiss - The Orgasm
-- Blackie - Aktiv
-- Blackie - Ich Und Du
-- Blackie - Suicide
-- Blackie - You Don't Know What I Know
-- Blackie - Zeig Es Mir
-- Blawan - What You Do With What You Have
 - Bomb The Base -  Beat Dis
 - Bomb The Bass - Beat Dis
 - Bomb the bass - Don't Make Me Wait
 - Boy Toy - Touch My Body
 - Brainstorm - Suicide Acid
 - Bronski Beat - Hit That Perfect Beat 12' Vinyl
-- Brussel Syndicate - New Beat 1988
+- Brussel Syndicate - New Beat
 - Bulgarka - Musica
 - Bx-8017 - Cccp House
 - CENTRAL UNIT - Saturday Nite
-- CHINESE WAYS - secrets of China (1988)
+- CHINESE WAYS - secrets of China
 - Captain Now - Oscar Mike
 - Carlos Peron - Nothing is True, Everything is Permitted
-- Cees &amp; Bart - Wake Up, It's Party Time!
-- Charade - Break Me
+- Cees & Bart - Wake Up, It's Party Time!
 - Charanjit Singh - Raga Bairagi
 - Charanjit Singh - Raga Bhairav
 - Charanjit Singh - Raga Bhupali
@@ -113,7 +103,7 @@
 - D-Mob - We Call It Acieed
 - DANSE MACABRE - The Spirit Of Bulgaria
 - DOCTOR ZARKHOW - Interplanetar
-- DR. SMILEY - V.D.B. on the beat (1989)
+- DR. SMILEY - V.D.B. on the beat
 - Deadchovsky - Solene Is A Batcave
 - Deadly Ernest - Working for the Pleasure (12" Version)
 - Decadance vs. Italoconnection - On And On (Fears Keep On) (Italoconnection Mix)
@@ -129,9 +119,9 @@
 - Dritte Krieg - Dopus
 - Dritte Krieg - Missiles
 - EL CHICO 2 - House Party
-- EROTIC DISSIDENTS - " Bodylanguage "
-- EROTIC DISSIDENTS - " Jack To The Air "
-- EROTIC DISSIDENTS - shake your hips (1988)
+- EROTIC DISSIDENTS - Bodylanguage
+- EROTIC DISSIDENTS - Jack To The Air
+- EROTIC DISSIDENTS - shake your hips
 - Ecstasy Club - Jesus Loves The Acid 
 - Edwards And Armani - Acid Drill
 - Eighty Eight - Resist
@@ -163,7 +153,7 @@
 - Fast Eddie - Acid Thunder
 - Fast Eddie - I Can Dance
 - Fast Eddie - Jack 2 The Sound
-- Fat Belgian Bastards - Drum Beat 1989
+- Fat Belgian Bastards - Drum Beat
 - Fatal Attraction - Music to be Murdered By
 - Fatal Error - Fatal Error
 - Fax Yourself - I Feel Love
@@ -185,14 +175,14 @@
 - Freestyle Man - Baby wants to ride (Volga select angel dust mix)
 - Front 242 -  Libye of Fun Khadafi 
 - Front 242 - Welcome To Paradise
-- Funk Ativity - funk machine 1989
-- Gail Robinson - Bust Your Body (1989)
+- Funk Ativity - funk machine
+- Gail Robinson - Bust Your Body
 - Genacid - Robert House is Dead
 - Generation N - Crash 707 (Long Courier)
 - Generation N - Crash 707 (Radio Mute Off)
 - Grandmaster Flash - Beat Street
 - HNO3 - Doughnut Dollies
-- HORSE RIDERS - touch me baby (1989)
+- HORSE RIDERS - touch me baby
 - Half a Twin - Rubbeldiekatz
 - Hani - Baby wants to ride
 - Hardfloor - Necessary Roughness
@@ -207,7 +197,7 @@
 - Hypnoteck - Pump Pump It Up
 - IC 434 - Headwatch
 - IC 434 - Horsehead
-- In-D - Beat In-D Dream, 1989
+- In-D - Beat In-D Dream,
 - Indicate - Cojeme
 - Indicate - This Kind I've Never Seen
 - Intact - Act's Of Sensation
@@ -231,7 +221,7 @@
 - K.L.J. - Saddam (Extended Version)
 - K.L.J. - Saddam (Spanish Version)
 - KAOS 007 - ..ck on acid (1988)
-- KL 303 featuring STEPHANIE STEEMAN - welcome back mr. V.D.B.! (1989)
+- KL 303 featuring STEPHANIE STEEMAN - welcome back mr. V.D.B.!
 - Kaos 007 - Rock On Acid
 - Karl Bartos - 2004 - The Robots (Live)
 - Kähli-T - The Land Of Nowhere (Crazy Cut Mix)
@@ -259,7 +249,7 @@
 - LaTour - Psych
 - Latin Lover - Dr.Love (Dub Mix)
 - Lisa Stansfield - This Is The Right Time
-- Little Little  - Oh La La La - 1989
+- Little Little  - Oh La La La
 - Longsy D's House Sound - This Is Ska (Skacid Mix)
 - Lords Of Acid - Children Of Acid
 - Lords Of Acid - Rubber Doll
@@ -334,7 +324,7 @@
 - New Order - Blue Monday (So Hot Mix)
 - New Order - Confusion (Acid House Mix)
 - Noise Boys - Megabeat
-- Nux Nemo - Shangai Market (1989)
+- Nux Nemo - Shangai Market
 - Oh Well - Oh Well
 - Ominus - Acid Tester
 - Optic Eye - Wobbling In Space
@@ -344,11 +334,11 @@
 - P. Jistes - Confocation
 - P.W.M. - are you ready to move? (techno mix) (1991) ..из 12" коллекции группы TEKKNO ZONE
 - P.W.M. - slave to the rhythm (club mix) (1992)
-- PLASTIC BERTRAND - slave to the beat (V.D.B. mix) (1989)
+- PLASTIC BERTRAND - slave to the beat (V.D.B. mix)
 - PLB SYSTEM - Just Like This (Instrumental Acid Mix)
 - PN'P - Poison (Radio Mix)
 - PUBLIC RELATIONS - public relations (1987)
-- Painting The White House Black - Ich Bin Ein Berliner - 1989
+- Painting The White House Black - Ich Bin Ein Berliner
 - Palais Schaumburg - Deutschland kommt gebräunt zurück
 - Palais Schaumburg - Die Freude
 - Palais Schaumburg - Europa Heisst Amerika
@@ -378,10 +368,10 @@
 - Praga Khan - Luv U Still
 - Psycho Team - Power (Techno Power Mix)
 - Psycho Team - Psycho (Original Mix)
-- Public Relation - Wakhif, 1988
+- Public Relation - Wakhif,
 - Public Relations - New Beat Mind
 - Public Relations - Public Relations
-- Public Relations - Vava (1989)
+- Public Relations - Vava
 - Public relations  - Eighty eight
 - Quinn Martin - One More Mission
 - R. Bais - Dial My Number (Extended Version)
@@ -400,12 +390,12 @@
 - Regressverbot  - Doctor (under construction)
 - Reject 707 - Brainkiller
 - Rhythm Device - Acid Rock
-- Rhythm Kings - A La Recherche (1989)
+- Rhythm Kings - A La Recherche
 - Robotiko Rejekto - Rejekto
 - Roy Davis Jr. - Acid Bass
-- SACHER MUSAK - Van Den Beat (club mix) (1989)
+- SACHER MUSAK - Van Den Beat (club mix)
 - SEVERED HEADS - dead eyes opened (slow version at 33+4) (1987)
-- SPANISH BEAT  - Loco_Loco (Extended Mix 1989)
+- SPANISH BEAT  - Loco_Loco (Extended Mix)
 - SPIRITUAL SKY - Ecoutez Et Repetez
 - Schakt Neun - Angst
 - Schakt Neun - Karl Marx
@@ -452,8 +442,8 @@
 - T.C. - Hello I Love You
 - T99 - Too Nice To Be Real (Acid Remix) 
 - T99 - slidy (emergency version) =1988
-- THE BEAT PIRATE - are you on 1 Matey? (12" acid mix) (1989)
-- THE BROTHERHOOD OF SLEEP - New Beat, a musical phenomenon (12'' version) (1989)
+- THE BEAT PIRATE - are you on 1 Matey? (12" acid mix)
+- THE BROTHERHOOD OF SLEEP - New Beat, a musical phenomenon (12'' version)
 - THX - Luv 'N' Trust (Trustworthy Mix)
 - Tapes'80 - Batch Sound - Night Rust 
 - Tapes'80 - Dmitry Petyakin - Neon City Lights 
@@ -478,27 +468,22 @@
 - The Hypnotist - Hardcore You Know The Score
 - The KLF - America: What Time Is Love?
 - The Kosmik Kommando - 98k Platinum
-- The Mao Tse Tung Experience - Kill the Artist
-- The Mao Tse Tung Experience - Machine Gun
-- The Mao Tse Tung Experience - Runaway
-- The Mao Tse Tung Experience - Satisfactum Sis
-- The Mao Tse Tung Experience - Zombies' March
 - The Maxxx - Baby Wants To Ride (Electro Dirty Extended Radio Mix)
 - The Muses Rapt - Spiritual Healing
 - The Neon Judgement - TV Treated
 - The Vision - Liberation Radio
 - Time Modem - Welcome To The 90's
-- Tragic error - Remote control 1989
+- Tragic error - Remote control
 - Tribe 22 - Aciiiiiiied - New Beat
-- Tunq - Close Encounter - 1988
+- Tunq - Close Encounter
 - Twenty 4 Seven - I Can't Stand It
 - Tyree - Acid Crash
 - U96 - Night In Motion (12" Version)
 - U96 - Night In Motion (70's Mix)
-- UTOPIA - Russian beat (1989)
+- UTOPIA - Russian beat
 - Umo Detic - Fahrenheit
 - Utopia - Russian Beat
-- V_VM - I wanna fuck miss Nicky Trax
+- V/VM - I wanna fuck miss Nicky Trax
 - Valerie Dore - The Night (Ben Liebrand Remix)
 - Various - New Beat (French Collection)
 - Velodrome - Au Velodrome 141
@@ -506,33 +491,42 @@
 - Velodrome - Glasfabrik
 - Vinyl Countdown - Forest Fire
 - Voltage Control - Outer Space Odyssey (Part V)
-- Vulgar Tongues - King Kong On The Roof - 1989
+- Vulgar Tongues - King Kong On The Roof
 - Walker - Shark III
-- Weirded - Acid (pre)Shabbat (Distorted Version)
-- Weirded - Acid Shabbat
-- Weirded - Back to the Present
-- Weirded - Jesus on acid
-- Weirded - Stupid Boy and Gamma-Aminobutyric Acid
-- Weirded - Vaseline Boys
-- Weirded - We call it muuutagen
 - Wood Allen - Airport
-- Wunderscheisse - Das ist Wunderscheisse
-- Wunderscheisse - Сварщица
 - X-Kommando - Take My (After World Mix)
 - X-Kommando - Touch My Ass (My Wifes Version)
-- YZY - Back In The USSR (Beat) 1989
-- YZY - Divina Comedia 1989
-- YZY - Live Box (Remix) 1989
-- YZY - O Zone Hole 1989
+- YZY - Back In The USSR (Beat)
+- YZY - Divina Comedia
+- YZY - Live Box (Remix)
+- YZY - O Zone Hole
 - Youth Code  - "Destroy" said, She
 - Youth Code  - Carried Mask
 - Youth Code  - Let The Sky Burn
 - Youth Code - Wear The Wounds
 - Youth Code - What Is the Answer 
 - Yvan Markewitch - Stalingrad
-- ZINNO - Russian roulette (new beat mix) (1989)
+- ZINNO - Russian roulette (new beat mix)
 - Zed 100 - Tendenthia
 - Zinno - Russian Roulette (New Beat Mix)
 - Select Midi - Schwankende Gestalten
 - colm iii - christmas tree (acid cracker)
-- little little - tickle me 1990
+- little little - tickle me
+
+# Not new beat but cool
+
+- Alcohol Frei - Write in C
+- Blackie - Aktiv
+- Blackie - Ich Und Du
+- Blackie - Suicide
+- Blackie - You Don't Know What I Know
+- Blackie - Zeig Es Mir
+- Blawan - What You Do With What You Have
+- Wunderscheisse - Das ist Wunderscheisse
+- Wunderscheisse - Сварщица
+- The Mao Tse Tung Experience - Kill the Artist
+- The Mao Tse Tung Experience - Machine Gun
+- The Mao Tse Tung Experience - Runaway
+- The Mao Tse Tung Experience - Satisfactum Sis
+- The Mao Tse Tung Experience - Zombies' March
+- Charade - Break Me
