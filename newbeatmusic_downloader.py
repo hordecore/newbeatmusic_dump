@@ -12,9 +12,9 @@ def wall_get_post_count():
 
 def simplify(attach):
     return {
-        'url':         re.sub("\?.*$", "", attach['audio']['url']),
+        'url':          re.sub("\?.*$", "", attach['audio']['url']),
         'performer':    re.sub("&gt;", ")", re.sub("&lt;", "(", attach['audio']['performer'])),
-        'title':    re.sub("&gt;", ")", re.sub("&lt;", "(", attach['audio']['title'])),
+        'title':        re.sub("&gt;", ")", re.sub("&lt;", "(", attach['audio']['title'])),
     }
 
 
@@ -34,6 +34,10 @@ def download(track):
 def file2response(file):
     with open(file) as f:
         data = json.loads(f.read())
+    if not 'response' in data:
+        print 'no response in data of ' + file + ':'
+        print data
+        exit(1)
     data['response'].remove(data['response'][0])
     return data['response']
 
@@ -51,7 +55,7 @@ def main():
     offset = 0
     if not os.path.isfile('newbeat.json'):
         print "TODO: dynamic offset eval, but now:"
-        print "curl 'https://api.vk.com/method/wall.get?owner_id=-18312682&count=100offset=0' > newbeat.json"
+        print "curl 'https://api.vk.com/method/wall.get?owner_id=-18312682&count=100&offset=0' > newbeat.json"
         print "curl 'https://api.vk.com/method/wall.get?owner_id=-18312682&count=100&offset=100' > newbeat2.json"
         print "curl 'https://api.vk.com/method/wall.get?owner_id=-18312682&count=100&offset=200' > newbeat3.json"
         return
