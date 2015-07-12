@@ -23,12 +23,11 @@ def download(track):
 	print "Download: " + track['performer'] + " - " + track['title']
 	filename = track['performer'] + " - " + track['title'] + ".mp3"
 	filename = "download/" + re.sub("/", "_", filename)
-	print 'url: ' + track['url'] + ' to ' + filename
 	if os.path.isfile(filename):
-		print ".. skipping"
+		print "... already here, skip"
 		return
 	if not track['url']:
-		print 'no url'
+		print '... no url, skip'
 		return
 	urllib.urlretrieve(track['url'], filename)
 
